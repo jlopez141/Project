@@ -1,11 +1,10 @@
 program hello
 
-implicit none
 
 
 write(*,*) 'Kaixo mundua!'
 write(*,*) 'Primer archivo'
 
-write(*,*) 'Cambio del archivo inicial'
+write(*,*) 'Segundo cambio del programa'
 
 end program hello
